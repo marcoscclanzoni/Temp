@@ -1,0 +1,17 @@
+footer{
+    background: blue;
+}
+header{
+    background: rgba(34, 34, 109, 0.199);
+    display: flex;
+    width: 100vw;
+}
+head{
+    background: red;
+}
+.menu{
+    display: flex;
+    align-self: center;
+
+    
+}
